@@ -1,0 +1,2572 @@
+{
+  "sections": [
+    {
+      "id": "PBS-ouwn1661723616425",
+      "name": "column",
+      "blocks": {
+        "parameters": {
+          "columns": "1",
+          "grid-on-mobile": false,
+          "columns-gap": 0,
+          "rows-gap": 0,
+          "columns-distribution": []
+        },
+        "style": {
+          "section-alignment": "center",
+          "vertical-alignment": "center",
+          "is-full-width": false,
+          "width": "700",
+          "height": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": 0,
+          "margin-right": "10",
+          "margin-bottom": 0,
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "linear-gradient(110deg, #FFDBDBFF 0%, #50E3C2FF 68%, #B8E986FF 100%)",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Notice bar",
+      "children": [
+        {
+          "id": "PBS-svr6ws1661723616425",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "التوصيل بالمجان ولن تدفع حتا يصلك المنتج لباب المنزل",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#FFFFFFFF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": 0,
+              "subtitle-font-size": 1,
+              "subtitle-text-color": "#26292E",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "5",
+              "margin-right": 0,
+              "margin-bottom": "5",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-006i9e1661727631733",
+      "name": "row",
+      "blocks": {
+        "parameters": {
+          "rows-gap": 0
+        },
+        "style": {
+          "section-alignment": "center",
+          "is-full-width": true,
+          "width": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "0",
+          "margin-right": "10",
+          "margin-bottom": "10",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "#FFFFFFFF",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "header",
+      "children": [
+        {
+          "id": "PBS-xdm4gl1661727631733",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "👋👋 ميزان حرارة المطبخ",
+              "subtitle": "⭐⭐⭐⭐⭐",
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#000000FF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "30",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title 1",
+          "children": null
+        },
+        {
+          "id": "PBS-zz7jhk1661727631734",
+          "name": "link-button",
+          "blocks": {
+            "parameters": {
+              "content": "<p><strong>أطلب الآن</strong></p>",
+              "icon-choice": "font-awesome",
+              "icon-class": "fas fa-shopping-cart",
+              "icon-image": null,
+              "type": "scroll-to-section",
+              "target-section": "PBS-qnim9k1632909988068",
+              "target-external-section": null,
+              "sticky-mobile": false,
+              "sticky-desktop": false
+            },
+            "style": {
+              "button-alignment": "center",
+              "is-full-width": false,
+              "width": "300",
+              "height": null,
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": "5",
+              "padding-right": "5",
+              "padding-bottom": "5",
+              "padding-left": "5",
+              "background-color": "linear-gradient(45deg, #417505FF 0%, #7ED321FF 100%)",
+              "hover-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "active-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "container-desktop-background-color": "transparent",
+              "container-mobile-background-color": "transparent",
+              "font-size": "17",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "text-vertical-alignment": "center",
+              "text-horizontal-alignment": "center",
+              "text-color": "#FFFFFF",
+              "hover-text-color": "#FFFFFF",
+              "active-text-color": "#FFFFFF",
+              "text-shadow": "0px 0px 0px black",
+              "icon-alignment": "row",
+              "icon-size": "15",
+              "icon-color": "#FFFFFF",
+              "space-in-between": "23",
+              "icon-shadow": "0px 0px 0px #000000",
+              "border-radius-top-left": "4",
+              "border-radius-top-right": "30",
+              "border-radius-bottom-right": "4",
+              "border-radius-bottom-left": "30",
+              "hover-border-radius-top-left": "30",
+              "hover-border-radius-top-right": 0,
+              "hover-border-radius-bottom-right": "30",
+              "hover-border-radius-bottom-left": "4",
+              "active-border-radius-top-left": "4",
+              "active-border-radius-top-right": "30",
+              "active-border-radius-bottom-right": "4",
+              "active-border-radius-bottom-left": "30",
+              "border-width": "4",
+              "hover-border-width": "4",
+              "active-border-width": "4",
+              "border-color": "#4A90E2FF",
+              "hover-border-color": "#F5A623FF",
+              "active-border-color": "#F5A623FF",
+              "border-style": "solid",
+              "animation-name": "scale",
+              "animation-direction": "from-left-ltr",
+              "animation-duration": "1000",
+              "animation-length-from": "0.85",
+              "animation-length-to": "1",
+              "animation-timing": "linear",
+              "button-shadow": "0px 0px 0px 0px black",
+              "hover-button-shadow": "0px 0px 0px 0px black",
+              "active-button-shadow": "0px 0px 0px 0px black",
+              "css-content": "{ }",
+              "icon-hover-color": "#FFFFFF",
+              "space-in-between-mobile": 20
+            }
+          },
+          "label": "Link button",
+          "children": null
+        },
+        {
+          "id": "PBS-yh80l1661727631733",
+          "name": "column",
+          "blocks": {
+            "parameters": {
+              "columns": 2,
+              "grid-on-mobile": false,
+              "columns-gap": "20",
+              "rows-gap": "20",
+              "columns-distribution": [
+                60
+              ]
+            },
+            "style": {
+              "section-alignment": "center",
+              "vertical-alignment": "center",
+              "is-full-width": false,
+              "width": "900",
+              "height": null,
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": "10",
+              "margin-right": 0,
+              "margin-bottom": "10",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "#00000000",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Image + Text + Button",
+          "children": [
+            {
+              "id": "PBS-na91i1661727631733",
+              "name": "image",
+              "blocks": {
+                "parameters": {
+                  "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/wbZBPdSAmKSSDJJCLa509AiJRbEAgTgtbI0iwltk.gif",
+                  "type": "none",
+                  "target-external-section": "#"
+                },
+                "style": {
+                  "image-alignment": "center",
+                  "is-full-width": false,
+                  "width": "400",
+                  "height": null,
+                  "border-t-l-radius": "40",
+                  "border-t-r-radius": "40",
+                  "border-b-r-radius": "40",
+                  "border-b-l-radius": "40",
+                  "margin-top": 0,
+                  "margin-right": "10",
+                  "margin-bottom": 0,
+                  "margin-left": "10",
+                  "background-color": "transparent",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Image Product",
+              "children": null
+            },
+            {
+              "id": "PBS-mqtjn1661727631733",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": 0,
+                  "border-radius-top-right": 0,
+                  "border-radius-bottom-right": 0,
+                  "border-radius-bottom-left": 0,
+                  "margin-top": 0,
+                  "margin-right": 0,
+                  "margin-bottom": 0,
+                  "margin-left": 0,
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "transparent",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-t03l51661727631734",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": null,
+                      "subtitle": "يعرف جيدا أي شاف أن نجاح أو فشل اي وصفحة يعتمد على درجة حرارة مجموعة من العوامل والمكونات الدقيقة لإعداد الوصفة . لهذا السبب ، سواء كنت محترفًا أو هاويًا نقدم لك مقياس الحرارة هذا",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.7",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": "20",
+                      "subtitle-font-size": "1.3",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": "10",
+                      "margin-right": "10",
+                      "margin-bottom": "10",
+                      "margin-left": "10",
+                      "padding-top": 0,
+                      "padding-right": 0,
+                      "padding-bottom": 0,
+                      "padding-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Title 2",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-dspeak1661727631734",
+          "name": "html-editor",
+          "blocks": {
+            "parameters": {
+              "htmlText": null
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": true,
+              "width": null,
+              "margin-top": "0",
+              "margin-right": 0,
+              "margin-bottom": "0",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Html Editor",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-uz8nhk1661730153911",
+      "name": "row",
+      "blocks": {
+        "parameters": {
+          "rows-gap": 0
+        },
+        "style": {
+          "section-alignment": "center",
+          "is-full-width": true,
+          "width": null,
+          "border-radius-top-left": "50",
+          "border-radius-top-right": "50",
+          "border-radius-bottom-right": "50",
+          "border-radius-bottom-left": "50",
+          "margin-top": "0",
+          "margin-right": "10",
+          "margin-bottom": "10",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "linear-gradient(110deg, #50E3C2FF 0%, #FFD8D8FF 46%, #B8E986FF 100%)",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "header",
+      "children": [
+        {
+          "id": "PBS-z86q31661730153913",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "النتائج الواضحة والسريعة",
+              "subtitle": "سيسمح لك هذا المقياس بقياس درجة حرارة الأطعمة الصلبة وكذلك السوائل . لذلك سوف تقدرها بشكل ادق كما انه يتوفر على خاصية الليزر لقياس درجة حرارة السطح وعن بعد و ملعقة خلط  المستحضرات  مع التحكم في ارتفاع درجة الحرارة بحيت يصبح مثاليا  للعمل مع مختلف أنواع السوائل مثل الشوكولاتة والصلصات والمربيات وغيرها من المستحضرات للتسخين ...",
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#000000FF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "30",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title 1",
+          "children": null
+        },
+        {
+          "id": "PBS-pnlefq1662131698460",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": null,
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#000000FF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "30",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title 1",
+          "children": null
+        },
+        {
+          "id": "PBS-r5ddmf1661730153915",
+          "name": "link-button",
+          "blocks": {
+            "parameters": {
+              "content": "<p><strong>أطلب الآن</strong></p>",
+              "icon-choice": "font-awesome",
+              "icon-class": "fas fa-shopping-cart",
+              "icon-image": null,
+              "type": "scroll-to-section",
+              "target-section": "PBS-qnim9k1632909988068",
+              "target-external-section": null,
+              "sticky-mobile": false,
+              "sticky-desktop": false
+            },
+            "style": {
+              "button-alignment": "center",
+              "is-full-width": false,
+              "width": "300",
+              "height": null,
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": "5",
+              "padding-right": "5",
+              "padding-bottom": "5",
+              "padding-left": "5",
+              "background-color": "linear-gradient(45deg, #417505FF 0%, #7ED321FF 100%)",
+              "hover-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "active-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "container-desktop-background-color": "transparent",
+              "container-mobile-background-color": "transparent",
+              "font-size": "17",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "text-vertical-alignment": "center",
+              "text-horizontal-alignment": "center",
+              "text-color": "#FFFFFF",
+              "hover-text-color": "#FFFFFF",
+              "active-text-color": "#FFFFFF",
+              "text-shadow": "0px 0px 0px black",
+              "icon-alignment": "row",
+              "icon-size": "15",
+              "icon-color": "#FFFFFF",
+              "space-in-between": "23",
+              "icon-shadow": "0px 0px 0px #000000",
+              "border-radius-top-left": "4",
+              "border-radius-top-right": "30",
+              "border-radius-bottom-right": "4",
+              "border-radius-bottom-left": "30",
+              "hover-border-radius-top-left": "30",
+              "hover-border-radius-top-right": 0,
+              "hover-border-radius-bottom-right": "30",
+              "hover-border-radius-bottom-left": "4",
+              "active-border-radius-top-left": "4",
+              "active-border-radius-top-right": "30",
+              "active-border-radius-bottom-right": "4",
+              "active-border-radius-bottom-left": "30",
+              "border-width": "4",
+              "hover-border-width": "4",
+              "active-border-width": "4",
+              "border-color": "#4A90E2FF",
+              "hover-border-color": "#7ED321FF",
+              "active-border-color": "#7ED321FF",
+              "border-style": "solid",
+              "animation-name": "scale",
+              "animation-direction": "from-left-ltr",
+              "animation-duration": "1100",
+              "animation-length-from": "0.85",
+              "animation-length-to": "1",
+              "animation-timing": "linear",
+              "button-shadow": "0px 0px 0px 0px black",
+              "hover-button-shadow": "0px 0px 0px 0px black",
+              "active-button-shadow": "0px 0px 0px 0px black",
+              "css-content": "{ }",
+              "icon-hover-color": "#FFFFFF",
+              "space-in-between-mobile": 20
+            }
+          },
+          "label": "Link button",
+          "children": null
+        },
+        {
+          "id": "PBS-mp9h8c1661730153914",
+          "name": "column",
+          "blocks": {
+            "parameters": {
+              "columns": 2,
+              "grid-on-mobile": false,
+              "columns-gap": "20",
+              "rows-gap": "20",
+              "columns-distribution": [
+                60
+              ]
+            },
+            "style": {
+              "section-alignment": "center",
+              "vertical-alignment": "center",
+              "is-full-width": false,
+              "width": "900",
+              "height": null,
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": "10",
+              "margin-right": 0,
+              "margin-bottom": "10",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "#00000000",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Image + Text + Button",
+          "children": [
+            {
+              "id": "PBS-453yzh1661730153914",
+              "name": "image",
+              "blocks": {
+                "parameters": {
+                  "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/jx0c9YplbpCPV0OHQhg0EH58SS7Z5kW3XZXGtzLy.jpeg",
+                  "type": "none",
+                  "target-external-section": "#"
+                },
+                "style": {
+                  "image-alignment": "center",
+                  "is-full-width": false,
+                  "width": "400",
+                  "height": null,
+                  "border-t-l-radius": "40",
+                  "border-t-r-radius": "40",
+                  "border-b-r-radius": "40",
+                  "border-b-l-radius": "40",
+                  "margin-top": 0,
+                  "margin-right": "10",
+                  "margin-bottom": 0,
+                  "margin-left": "10",
+                  "background-color": "transparent",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Image Product",
+              "children": null
+            },
+            {
+              "id": "PBS-t7edib1661730153914",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": 0,
+                  "border-radius-top-right": 0,
+                  "border-radius-bottom-right": 0,
+                  "border-radius-bottom-left": 0,
+                  "margin-top": 0,
+                  "margin-right": 0,
+                  "margin-bottom": 0,
+                  "margin-left": 0,
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "transparent",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-zmba4g1661730153914",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": "الإستعمال",
+                      "subtitle": "سواء كنت جزارًا أو طباخًا أو متعهدًا للطعام ، فنحن نعلم أنه من المهم بالنسبة لك أن تكون قادرًا على التحكم في طهي تحضيراتك والتحكم في درجة حرارة الأطعمة الطازجة ، من أجل احترام سلسلة التبريد ومعايير النظافة الصارمة",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.7",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": "20",
+                      "subtitle-font-size": "1.3",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": "10",
+                      "margin-right": "10",
+                      "margin-bottom": "10",
+                      "margin-left": "10",
+                      "padding-top": 0,
+                      "padding-right": 0,
+                      "padding-bottom": 0,
+                      "padding-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Title 2",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-oxsw771661730153915",
+          "name": "html-editor",
+          "blocks": {
+            "parameters": {
+              "htmlText": "<p><img src=\"https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/FiWquf7OiqyAsE874SOYyyAEZYsdHqHF7WzN29NR.png\" style=\"width: 475px;\" class=\"fr-fic fr-dib\" data-name=\"stores/d30f24229ccf57f5714113acecc343f1/others/FiWquf7OiqyAsE874SOYyyAEZYsdHqHF7WzN29NR.png\"></p>"
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": true,
+              "width": null,
+              "margin-top": "0",
+              "margin-right": 0,
+              "margin-bottom": "0",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Html Editor",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-nyrc11661734148651",
+      "name": "row",
+      "blocks": {
+        "parameters": {
+          "rows-gap": 0
+        },
+        "style": {
+          "section-alignment": "center",
+          "is-full-width": true,
+          "width": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "0",
+          "margin-right": "10",
+          "margin-bottom": "10",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "#FFFFFFFF",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "header",
+      "children": [
+        {
+          "id": "PBS-b18p8g1661734148654",
+          "name": "link-button",
+          "blocks": {
+            "parameters": {
+              "content": "<p><strong>أطلب الآن</strong></p>",
+              "icon-choice": "font-awesome",
+              "icon-class": "fas fa-shopping-cart",
+              "icon-image": null,
+              "type": "scroll-to-section",
+              "target-section": "PBS-qnim9k1632909988068",
+              "target-external-section": null,
+              "sticky-mobile": false,
+              "sticky-desktop": false
+            },
+            "style": {
+              "button-alignment": "center",
+              "is-full-width": false,
+              "width": "300",
+              "height": null,
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": "5",
+              "padding-right": "5",
+              "padding-bottom": "5",
+              "padding-left": "5",
+              "background-color": "linear-gradient(45deg, #417505FF 0%, #7ED321FF 100%)",
+              "hover-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "active-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "container-desktop-background-color": "transparent",
+              "container-mobile-background-color": "transparent",
+              "font-size": "17",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "text-vertical-alignment": "center",
+              "text-horizontal-alignment": "center",
+              "text-color": "#FFFFFF",
+              "hover-text-color": "#FFFFFF",
+              "active-text-color": "#FFFFFF",
+              "text-shadow": "0px 0px 0px black",
+              "icon-alignment": "row",
+              "icon-size": "15",
+              "icon-color": "#FFFFFF",
+              "space-in-between": "23",
+              "icon-shadow": "0px 0px 0px #000000",
+              "border-radius-top-left": "4",
+              "border-radius-top-right": "30",
+              "border-radius-bottom-right": "4",
+              "border-radius-bottom-left": "30",
+              "hover-border-radius-top-left": "30",
+              "hover-border-radius-top-right": 0,
+              "hover-border-radius-bottom-right": "30",
+              "hover-border-radius-bottom-left": "4",
+              "active-border-radius-top-left": "4",
+              "active-border-radius-top-right": "30",
+              "active-border-radius-bottom-right": "4",
+              "active-border-radius-bottom-left": "30",
+              "border-width": "4",
+              "hover-border-width": "4",
+              "active-border-width": "4",
+              "border-color": "#4A90E2FF",
+              "hover-border-color": "#7ED321FF",
+              "active-border-color": "#7ED321FF",
+              "border-style": "solid",
+              "animation-name": "scale",
+              "animation-direction": "from-left-ltr",
+              "animation-duration": "1000",
+              "animation-length-from": "0.85",
+              "animation-length-to": "1",
+              "animation-timing": "linear",
+              "button-shadow": "0px 0px 0px 0px black",
+              "hover-button-shadow": "0px 0px 0px 0px black",
+              "active-button-shadow": "0px 0px 0px 0px black",
+              "css-content": "{ }",
+              "icon-hover-color": "#FFFFFF",
+              "space-in-between-mobile": 20
+            }
+          },
+          "label": "Link button",
+          "children": null
+        },
+        {
+          "id": "PBS-4i9v5i1661734148652",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "معلومات عامة",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#000000FF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title 1",
+          "children": null
+        },
+        {
+          "id": "PBS-5syimh1661734148653",
+          "name": "column",
+          "blocks": {
+            "parameters": {
+              "columns": 2,
+              "grid-on-mobile": false,
+              "columns-gap": "20",
+              "rows-gap": "20",
+              "columns-distribution": [
+                60
+              ]
+            },
+            "style": {
+              "section-alignment": "center",
+              "vertical-alignment": "center",
+              "is-full-width": false,
+              "width": "900",
+              "height": null,
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": "10",
+              "margin-right": 0,
+              "margin-bottom": "10",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "#00000000",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Image + Text + Button",
+          "children": [
+            {
+              "id": "PBS-wzu9dw1661734148653",
+              "name": "image",
+              "blocks": {
+                "parameters": {
+                  "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/Fp2DK0T693pY9UTEYqKLrVD0klaDCzK4nBf9QuOD.gif",
+                  "type": "none",
+                  "target-external-section": "#"
+                },
+                "style": {
+                  "image-alignment": "center",
+                  "is-full-width": false,
+                  "width": "400",
+                  "height": null,
+                  "border-t-l-radius": "40",
+                  "border-t-r-radius": "40",
+                  "border-b-r-radius": "40",
+                  "border-b-l-radius": "40",
+                  "margin-top": 0,
+                  "margin-right": "10",
+                  "margin-bottom": 0,
+                  "margin-left": "10",
+                  "background-color": "transparent",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Image Product",
+              "children": null
+            },
+            {
+              "id": "PBS-r5gdbd1661734148654",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": 0,
+                  "border-radius-top-right": 0,
+                  "border-radius-bottom-right": 0,
+                  "border-radius-bottom-left": 0,
+                  "margin-top": 0,
+                  "margin-right": 0,
+                  "margin-bottom": 0,
+                  "margin-left": 0,
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "transparent",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-wtxcpo1661734148654",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": null,
+                      "subtitle": "مصنوع من الفولاذ المقاوم للصدأ عالي الجودة، يوفر مجس الطعام الرقيق للغاية والقطر الحساس قراءات عند 0.1 ℃. طول 22.7 يسمح بالوصول لعمق المعجنات والسوائل دون حرق بشرتك.",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.7",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": "20",
+                      "subtitle-font-size": "1.3",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": "10",
+                      "margin-right": "10",
+                      "margin-bottom": "10",
+                      "margin-left": "10",
+                      "padding-top": 0,
+                      "padding-right": 0,
+                      "padding-bottom": 0,
+                      "padding-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Title 2",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-svtb7r1661738145532",
+          "name": "link-button",
+          "blocks": {
+            "parameters": {
+              "content": "<p><strong>أطلب الآن</strong></p>",
+              "icon-choice": "font-awesome",
+              "icon-class": "fas fa-shopping-cart",
+              "icon-image": null,
+              "type": "scroll-to-section",
+              "target-section": "PBS-qnim9k1632909988068",
+              "target-external-section": null,
+              "sticky-mobile": false,
+              "sticky-desktop": false
+            },
+            "style": {
+              "button-alignment": "center",
+              "is-full-width": false,
+              "width": "300",
+              "height": null,
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": "5",
+              "padding-right": "5",
+              "padding-bottom": "5",
+              "padding-left": "5",
+              "background-color": "linear-gradient(45deg, #417505FF 0%, #7ED321FF 100%)",
+              "hover-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "active-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "container-desktop-background-color": "transparent",
+              "container-mobile-background-color": "transparent",
+              "font-size": "17",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "text-vertical-alignment": "center",
+              "text-horizontal-alignment": "center",
+              "text-color": "#FFFFFF",
+              "hover-text-color": "#FFFFFF",
+              "active-text-color": "#FFFFFF",
+              "text-shadow": "0px 0px 0px black",
+              "icon-alignment": "row",
+              "icon-size": "15",
+              "icon-color": "#FFFFFF",
+              "space-in-between": "23",
+              "icon-shadow": "0px 0px 0px #000000",
+              "border-radius-top-left": "4",
+              "border-radius-top-right": "30",
+              "border-radius-bottom-right": "4",
+              "border-radius-bottom-left": "30",
+              "hover-border-radius-top-left": "30",
+              "hover-border-radius-top-right": 0,
+              "hover-border-radius-bottom-right": "30",
+              "hover-border-radius-bottom-left": "4",
+              "active-border-radius-top-left": "4",
+              "active-border-radius-top-right": "30",
+              "active-border-radius-bottom-right": "4",
+              "active-border-radius-bottom-left": "30",
+              "border-width": "4",
+              "hover-border-width": "4",
+              "active-border-width": "4",
+              "border-color": "#4A90E2FF",
+              "hover-border-color": "#7ED321FF",
+              "active-border-color": "#7ED321FF",
+              "border-style": "solid",
+              "animation-name": "scale",
+              "animation-direction": "from-left-ltr",
+              "animation-duration": "1100",
+              "animation-length-from": "0.85",
+              "animation-length-to": "1",
+              "animation-timing": "linear",
+              "button-shadow": "0px 0px 0px 0px black",
+              "hover-button-shadow": "0px 0px 0px 0px black",
+              "active-button-shadow": "0px 0px 0px 0px black",
+              "css-content": "{ }",
+              "icon-hover-color": "#FFFFFF",
+              "space-in-between-mobile": 20
+            }
+          },
+          "label": "Link button",
+          "children": null
+        },
+        {
+          "id": "PBS-d4w35d91661734148654",
+          "name": "html-editor",
+          "blocks": {
+            "parameters": {
+              "htmlText": "<p><img src=\"https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/iQf75ZpiMiZzRdmUuQgS7IlQpwDgTQWZfxp6FEGy.png\" style=\"width: 416px;\" class=\"fr-fic fr-dib\" data-name=\"stores/d30f24229ccf57f5714113acecc343f1/others/iQf75ZpiMiZzRdmUuQgS7IlQpwDgTQWZfxp6FEGy.png\"></p>"
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": true,
+              "width": null,
+              "margin-top": "0",
+              "margin-right": 0,
+              "margin-bottom": "0",
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Html Editor",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-lhtsfb1661723616426",
+      "name": "title",
+      "blocks": {
+        "parameters": {
+          "text": "أراء الزبناء",
+          "subtitle": null,
+          "style": "style-1",
+          "url": null
+        },
+        "style": {
+          "text-alignment": "center",
+          "font-size": 2,
+          "text-color": "#26292E",
+          "accent-color": "#ff6e55",
+          "font-family": null,
+          "font-weight": "bold",
+          "text-decoration": "none",
+          "line-height": 150,
+          "letter-spacing": 0,
+          "subtitle-text-alignment": "center",
+          "space-between-title": 0,
+          "subtitle-font-size": 1,
+          "subtitle-text-color": "#26292E",
+          "subtitle-font-family": null,
+          "subtitle-font-weight": "normal",
+          "subtitle-text-decoration": "none",
+          "subtitle-line-height": 150,
+          "subtitle-letter-spacing": 0,
+          "title-alignment": "center",
+          "margin-top": "20",
+          "margin-right": 0,
+          "margin-bottom": "0",
+          "margin-left": 0,
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "transparent",
+          "css-content": "{ }"
+        }
+      },
+      "label": "أراء الزبناء",
+      "children": null
+    },
+    {
+      "id": "PBS-8mresd1661723616426",
+      "name": "spacer",
+      "blocks": {
+        "parameters": {
+          "space": 10,
+          "spacer-style": "divider",
+          "is-shadow": false
+        },
+        "style": {
+          "spacer-alignment": "center",
+          "is-full-width": false,
+          "width": "80",
+          "margin-top": 0,
+          "margin-bottom": 0,
+          "divider-thickness": "5",
+          "divider-color": "#1A1A1A",
+          "border-style": "solid",
+          "background-color": "transparent",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Spacer",
+      "children": null
+    },
+    {
+      "id": "PBS-byw0be1661723616426",
+      "name": "column",
+      "blocks": {
+        "parameters": {
+          "columns": "4",
+          "grid-on-mobile": false,
+          "columns-gap": "20",
+          "rows-gap": "20",
+          "columns-distribution": [
+            25,
+            50,
+            75
+          ]
+        },
+        "style": {
+          "section-alignment": "center",
+          "vertical-alignment": "center",
+          "is-full-width": false,
+          "width": "950",
+          "height": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "15",
+          "margin-right": "10",
+          "margin-bottom": "15",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "#00000000",
+          "background-image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/C5AMACLLEb4mKgLNLMcydG1i435oJ4F5bDkqUx0y.gif",
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Columns",
+      "children": [
+        {
+          "id": "PBS-mnfj8e1661723616426",
+          "name": "row",
+          "blocks": {
+            "parameters": {
+              "rows-gap": 0
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": false,
+              "width": "255",
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Container",
+          "children": [
+            {
+              "id": "PBS-jwukf91661723616426",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": "25",
+                  "border-radius-top-right": "25",
+                  "border-radius-bottom-right": "25",
+                  "border-radius-bottom-left": "25",
+                  "margin-top": "0",
+                  "margin-right": "0",
+                  "margin-bottom": "0",
+                  "margin-left": "0",
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "#F4F4F4FF",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-dkf2ea1661723616426",
+                  "name": "image",
+                  "blocks": {
+                    "parameters": {
+                      "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/A58lzTeucKAtDcVctWApM1yluwFVQdvdcGtrrUTn.png",
+                      "type": "none",
+                      "target-external-section": "#"
+                    },
+                    "style": {
+                      "image-alignment": "center",
+                      "is-full-width": false,
+                      "width": "200",
+                      "height": null,
+                      "border-t-l-radius": 0,
+                      "border-t-r-radius": 0,
+                      "border-b-r-radius": 0,
+                      "border-b-l-radius": 0,
+                      "margin-top": "10",
+                      "margin-right": 0,
+                      "margin-bottom": "5",
+                      "margin-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Image",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-5zj3g1661727534580",
+          "name": "row",
+          "blocks": {
+            "parameters": {
+              "rows-gap": 0
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": false,
+              "width": "255",
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Container",
+          "children": [
+            {
+              "id": "PBS-a2gxvh1661727534580",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": "25",
+                  "border-radius-top-right": "25",
+                  "border-radius-bottom-right": "25",
+                  "border-radius-bottom-left": "25",
+                  "margin-top": "0",
+                  "margin-right": "0",
+                  "margin-bottom": "0",
+                  "margin-left": "0",
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "#F4F4F4FF",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-3398vs1661727534580",
+                  "name": "image",
+                  "blocks": {
+                    "parameters": {
+                      "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/9VFjlUTa0tXuwDPh4a7g6juZ84dUylDUgAcLKd8o.png",
+                      "type": "none",
+                      "target-external-section": "#"
+                    },
+                    "style": {
+                      "image-alignment": "center",
+                      "is-full-width": false,
+                      "width": "127.5",
+                      "height": null,
+                      "border-t-l-radius": 0,
+                      "border-t-r-radius": 0,
+                      "border-b-r-radius": 0,
+                      "border-b-l-radius": 0,
+                      "margin-top": "10",
+                      "margin-right": 0,
+                      "margin-bottom": "5",
+                      "margin-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Image",
+                  "children": null
+                },
+                {
+                  "id": "PBS-v0otn81661727534580",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": "حليمة يغروق",
+                      "subtitle": "كنت من ديما كنسخن لحليب لولادي الصغار او كنستناه يبرد حتا شريت هاد المقياس وليت كنحطو كيوصل لدرجة لي بغيت او كنحبس النار من قبل كنت كنضيع لوقت مين نبقى نبرد فيه",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.3",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": 0,
+                      "subtitle-font-size": "1.4",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": 0,
+                      "margin-right": 0,
+                      "margin-bottom": 0,
+                      "margin-left": 0,
+                      "padding-top": "10",
+                      "padding-right": "10",
+                      "padding-bottom": "30",
+                      "padding-left": "10",
+                      "background-color": "#00000000",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "أنشئ صفحة جديدة",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-xw364w1661727534459",
+          "name": "row",
+          "blocks": {
+            "parameters": {
+              "rows-gap": 0
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": false,
+              "width": "255",
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Container",
+          "children": [
+            {
+              "id": "PBS-lsil261661727534459",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": "25",
+                  "border-radius-top-right": "25",
+                  "border-radius-bottom-right": "25",
+                  "border-radius-bottom-left": "25",
+                  "margin-top": "0",
+                  "margin-right": "0",
+                  "margin-bottom": "0",
+                  "margin-left": "0",
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "#F4F4F4FF",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-bh1uth1661727534460",
+                  "name": "image",
+                  "blocks": {
+                    "parameters": {
+                      "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/rSVtzpdo43hkkwKoFf9mZJGJXIX9xeu35B6hjWnn.png",
+                      "type": "none",
+                      "target-external-section": "#"
+                    },
+                    "style": {
+                      "image-alignment": "center",
+                      "is-full-width": false,
+                      "width": "127.5",
+                      "height": null,
+                      "border-t-l-radius": 0,
+                      "border-t-r-radius": 0,
+                      "border-b-r-radius": 0,
+                      "border-b-l-radius": 0,
+                      "margin-top": "10",
+                      "margin-right": 0,
+                      "margin-bottom": "5",
+                      "margin-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Image",
+                  "children": null
+                },
+                {
+                  "id": "PBS-gx5kpg1661727534460",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": "إبراهيم لملاح",
+                      "subtitle": "معاكم الشاف براهيم أي مدام دالكوزينة كنصحها بهادي انا شاف او شنو حتاج لكوزينة تحياتي ليكم ووشكرا على التواصل لي درتوه معايا",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.3",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": 0,
+                      "subtitle-font-size": "1.4",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": 0,
+                      "margin-right": 0,
+                      "margin-bottom": 0,
+                      "margin-left": 0,
+                      "padding-top": "10",
+                      "padding-right": "10",
+                      "padding-bottom": "30",
+                      "padding-left": "10",
+                      "background-color": "#00000000",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "أنشئ صفحة جديدة",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-fr47221661729727500",
+          "name": "row",
+          "blocks": {
+            "parameters": {
+              "rows-gap": 0
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": false,
+              "width": "255",
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Container",
+          "children": [
+            {
+              "id": "PBS-hh32c1661729727501",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": "25",
+                  "border-radius-top-right": "25",
+                  "border-radius-bottom-right": "25",
+                  "border-radius-bottom-left": "25",
+                  "margin-top": "0",
+                  "margin-right": "0",
+                  "margin-bottom": "0",
+                  "margin-left": "0",
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "#F4F4F4FF",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-lvczuc1661729727501",
+                  "name": "image",
+                  "blocks": {
+                    "parameters": {
+                      "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/3OkUmRafcRrUZFxwXxUGNalfEvUWIXfRwD2BUiN3.png",
+                      "type": "none",
+                      "target-external-section": "#"
+                    },
+                    "style": {
+                      "image-alignment": "center",
+                      "is-full-width": false,
+                      "width": "127.5",
+                      "height": null,
+                      "border-t-l-radius": 0,
+                      "border-t-r-radius": 0,
+                      "border-b-r-radius": 0,
+                      "border-b-l-radius": 0,
+                      "margin-top": "10",
+                      "margin-right": 0,
+                      "margin-bottom": "5",
+                      "margin-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Image",
+                  "children": null
+                },
+                {
+                  "id": "PBS-mnd4h5k1661729727501",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": "حمزة ونغاني",
+                      "subtitle": "شحال وانا كنقلب على هاد المقياس ولقيتو فالانترنيت ولكن خاص تستنى شهر حتا خديتو من عندكم يوماين وصلني حتا لباب الدار",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.3",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": 0,
+                      "subtitle-font-size": "1.4",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": 0,
+                      "margin-right": 0,
+                      "margin-bottom": 0,
+                      "margin-left": 0,
+                      "padding-top": "10",
+                      "padding-right": "10",
+                      "padding-bottom": "30",
+                      "padding-left": "10",
+                      "background-color": "#00000000",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "أنشئ صفحة جديدة",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "PBS-fg04a1661727535325",
+          "name": "row",
+          "blocks": {
+            "parameters": {
+              "rows-gap": 0
+            },
+            "style": {
+              "section-alignment": "center",
+              "is-full-width": false,
+              "width": "255",
+              "border-radius-top-left": 0,
+              "border-radius-top-right": 0,
+              "border-radius-bottom-right": 0,
+              "border-radius-bottom-left": 0,
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Container",
+          "children": [
+            {
+              "id": "PBS-y3r6ar1661727535325",
+              "name": "row",
+              "blocks": {
+                "parameters": {
+                  "rows-gap": 0
+                },
+                "style": {
+                  "section-alignment": "center",
+                  "is-full-width": true,
+                  "width": null,
+                  "border-radius-top-left": "25",
+                  "border-radius-top-right": "25",
+                  "border-radius-bottom-right": "25",
+                  "border-radius-bottom-left": "25",
+                  "margin-top": "0",
+                  "margin-right": "0",
+                  "margin-bottom": "0",
+                  "margin-left": "0",
+                  "padding-top": 0,
+                  "padding-right": 0,
+                  "padding-bottom": 0,
+                  "padding-left": 0,
+                  "background-color": "#F4F4F4FF",
+                  "background-image": null,
+                  "background-repeat": "no-repeat",
+                  "background-position": "center",
+                  "background-size": "cover",
+                  "css-content": "{ }"
+                }
+              },
+              "label": "Container",
+              "children": [
+                {
+                  "id": "PBS-mh3ida1661727535325",
+                  "name": "image",
+                  "blocks": {
+                    "parameters": {
+                      "image": "https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/3OkUmRafcRrUZFxwXxUGNalfEvUWIXfRwD2BUiN3.png",
+                      "type": "none",
+                      "target-external-section": "#"
+                    },
+                    "style": {
+                      "image-alignment": "center",
+                      "is-full-width": false,
+                      "width": "127.5",
+                      "height": null,
+                      "border-t-l-radius": 0,
+                      "border-t-r-radius": 0,
+                      "border-b-r-radius": 0,
+                      "border-b-l-radius": 0,
+                      "margin-top": "10",
+                      "margin-right": 0,
+                      "margin-bottom": "5",
+                      "margin-left": 0,
+                      "background-color": "transparent",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "Image",
+                  "children": null
+                },
+                {
+                  "id": "PBS-m43qm1661727535325",
+                  "name": "title",
+                  "blocks": {
+                    "parameters": {
+                      "text": "خديجة مربوح",
+                      "subtitle": "حتا شفت شهادة من غوغل عاد شريتو من عندكم والتوصيل مشاء الله حيت موالفة مشري من الأنترنيت ولكن كيتعطلو شكرا بزاااف ليكم",
+                      "style": "style-1",
+                      "url": null
+                    },
+                    "style": {
+                      "text-alignment": "center",
+                      "font-size": "1.3",
+                      "text-color": "#000000FF",
+                      "accent-color": "#ff6e55",
+                      "font-family": null,
+                      "font-weight": "bold",
+                      "text-decoration": "none",
+                      "line-height": 150,
+                      "letter-spacing": 0,
+                      "subtitle-text-alignment": "center",
+                      "space-between-title": 0,
+                      "subtitle-font-size": "1.4",
+                      "subtitle-text-color": "#4A4A4AFF",
+                      "subtitle-font-family": null,
+                      "subtitle-font-weight": "normal",
+                      "subtitle-text-decoration": "none",
+                      "subtitle-line-height": 150,
+                      "subtitle-letter-spacing": 0,
+                      "title-alignment": "center",
+                      "margin-top": 0,
+                      "margin-right": 0,
+                      "margin-bottom": 0,
+                      "margin-left": 0,
+                      "padding-top": "10",
+                      "padding-right": "10",
+                      "padding-bottom": "30",
+                      "padding-left": "10",
+                      "background-color": "#00000000",
+                      "css-content": "{ }"
+                    }
+                  },
+                  "label": "أنشئ صفحة جديدة",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PBS-m42gqk1661738232649",
+      "name": "row",
+      "blocks": {
+        "parameters": {
+          "rows-gap": 0
+        },
+        "style": {
+          "section-alignment": "center",
+          "is-full-width": true,
+          "width": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "0",
+          "margin-right": "10",
+          "margin-bottom": "10",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "#FFFFFFFF",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "header",
+      "children": [
+        {
+          "id": "PBS-he92mg1661738232649",
+          "name": "link-button",
+          "blocks": {
+            "parameters": {
+              "content": "<p><strong>أطلب الآن</strong></p>",
+              "icon-choice": "font-awesome",
+              "icon-class": "fas fa-shopping-cart",
+              "icon-image": null,
+              "type": "scroll-to-section",
+              "target-section": "PBS-qnim9k1632909988068",
+              "target-external-section": null,
+              "sticky-mobile": false,
+              "sticky-desktop": false
+            },
+            "style": {
+              "button-alignment": "center",
+              "is-full-width": false,
+              "width": "300",
+              "height": null,
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": "5",
+              "padding-right": "5",
+              "padding-bottom": "5",
+              "padding-left": "5",
+              "background-color": "linear-gradient(45deg, #417505FF 0%, #7ED321FF 100%)",
+              "hover-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "active-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+              "container-desktop-background-color": "transparent",
+              "container-mobile-background-color": "transparent",
+              "font-size": "17",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "text-vertical-alignment": "center",
+              "text-horizontal-alignment": "center",
+              "text-color": "#FFFFFF",
+              "hover-text-color": "#FFFFFF",
+              "active-text-color": "#FFFFFF",
+              "text-shadow": "0px 0px 0px black",
+              "icon-alignment": "row",
+              "icon-size": "15",
+              "icon-color": "#FFFFFF",
+              "space-in-between": "23",
+              "icon-shadow": "0px 0px 0px #000000",
+              "border-radius-top-left": "4",
+              "border-radius-top-right": "30",
+              "border-radius-bottom-right": "4",
+              "border-radius-bottom-left": "30",
+              "hover-border-radius-top-left": "30",
+              "hover-border-radius-top-right": 0,
+              "hover-border-radius-bottom-right": "30",
+              "hover-border-radius-bottom-left": "4",
+              "active-border-radius-top-left": "4",
+              "active-border-radius-top-right": "30",
+              "active-border-radius-bottom-right": "4",
+              "active-border-radius-bottom-left": "30",
+              "border-width": "4",
+              "hover-border-width": "4",
+              "active-border-width": "4",
+              "border-color": "#4A90E2FF",
+              "hover-border-color": "#7ED321FF",
+              "active-border-color": "#7ED321FF",
+              "border-style": "solid",
+              "animation-name": "scale",
+              "animation-direction": "from-left-ltr",
+              "animation-duration": "1000",
+              "animation-length-from": "0.85",
+              "animation-length-to": "1",
+              "animation-timing": "linear",
+              "button-shadow": "0px 0px 0px 0px black",
+              "hover-button-shadow": "0px 0px 0px 0px black",
+              "active-button-shadow": "0px 0px 0px 0px black",
+              "css-content": "{ }",
+              "icon-hover-color": "#FFFFFF",
+              "space-in-between-mobile": 20
+            }
+          },
+          "label": "Link button",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-33lctg1661723616426",
+      "name": "column",
+      "blocks": {
+        "parameters": {
+          "columns": "3",
+          "grid-on-mobile": false,
+          "columns-gap": "10",
+          "rows-gap": "10",
+          "columns-distribution": [
+            33,
+            66
+          ]
+        },
+        "style": {
+          "section-alignment": "center",
+          "vertical-alignment": "center",
+          "is-full-width": false,
+          "width": "850",
+          "height": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "10",
+          "margin-right": 0,
+          "margin-bottom": "10",
+          "margin-left": 0,
+          "padding-top": 0,
+          "padding-right": "5",
+          "padding-bottom": 0,
+          "padding-left": "5",
+          "background-color": "linear-gradient(45deg, #B8E986FF 0%, #FFA7A7FF 50%, #50E3C2FF 100%)",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Columns",
+      "children": [
+        {
+          "id": "PBS-7lgyyi1661723616426",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "هذا الـعرض خـاص سينتهي قريبا",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#FFFFFFFF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.5",
+              "subtitle-text-color": "#FFFFFFFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "bold",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title",
+          "children": null
+        },
+        {
+          "id": "PBS-xxlec1661723616426",
+          "name": "countdown",
+          "blocks": {
+            "parameters": {
+              "style": "style-2",
+              "s5-button-text": "Buy now",
+              "s5-promo-text": "Black Friday Sale 💥",
+              "days-label": "D",
+              "days": 0,
+              "is-days-enabled": false,
+              "hours-label": "ساعة",
+              "hours": "19",
+              "is-hours-enabled": true,
+              "minutes-label": "دقيقة",
+              "minutes": 0,
+              "is-minutes-enabled": true,
+              "seconds-label": "ثانية",
+              "seconds": 0,
+              "is-seconds-enabled": true
+            },
+            "style": {
+              "s4-counter-top-color": "#FF7A7A",
+              "s4-counter-bottom-color": "#FFA4A4",
+              "s4-counter-label-bg-color": "#26292E",
+              "s5-counter-timer-text-color": "#FFFFFF",
+              "s5-counter-timer-label-text-color": "#FFFFFF",
+              "s5-button-text-color": "#FFFFFF",
+              "s5-button-bg-color": "#EB5640",
+              "s5-promo-text-color": "#FFFFFF",
+              "s5-banner-bg-color": "#12111B",
+              "s5-banner-background-image": "https://i.ibb.co/2KB09y3/MEDIA2.png",
+              "s5-banner-background-repeat": "repeat-x",
+              "s5-banner-background-position": "center",
+              "s5-banner-background-size": "contain",
+              "progress-bar-color": "#FFD9D9",
+              "border-width": 0,
+              "border-color": "#000000",
+              "border-radius": 0,
+              "counter-border-width": 0,
+              "counter-border-color": "#000000",
+              "counter-border-radius": 0,
+              "counter-time-color": "#FFFFFFFF",
+              "counter-background-color": "transparent",
+              "counter-text-color": "#FFFFFFFF",
+              "counter-dots-color": "#FFFFFFFF",
+              "counter-horizontal-alignment": "center",
+              "width": 60,
+              "countdown-size": 1,
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "background-image": null,
+              "background-repeat": "no-repeat",
+              "background-position": "center",
+              "background-size": "cover",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Countdown",
+          "children": null
+        },
+        {
+          "id": "PBS-55xbnb1661723616426",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "تـخـفـيـض %39- مـاذا تنتظرون؟",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.5",
+              "text-color": "#7C200BFF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.5",
+              "subtitle-text-color": "#7C200BFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": 0,
+              "margin-right": 0,
+              "margin-bottom": 0,
+              "margin-left": 0,
+              "padding-top": 0,
+              "padding-right": 0,
+              "padding-bottom": 0,
+              "padding-left": 0,
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "Title",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-47z7f1661723616426",
+      "name": "title",
+      "blocks": {
+        "parameters": {
+          "text": "↡ للطلب، المرجو إدخال معلوماتك ↡",
+          "subtitle": "في الخانات أسفله",
+          "style": "style-1",
+          "url": null
+        },
+        "style": {
+          "text-alignment": "center",
+          "font-size": "1.8",
+          "text-color": "#000000FF",
+          "accent-color": "#ff6e55",
+          "font-family": null,
+          "font-weight": "bold",
+          "text-decoration": "none",
+          "line-height": 150,
+          "letter-spacing": 0,
+          "subtitle-text-alignment": "center",
+          "space-between-title": "10",
+          "subtitle-font-size": "1.8",
+          "subtitle-text-color": "#71C613FF",
+          "subtitle-font-family": null,
+          "subtitle-font-weight": "bold",
+          "subtitle-text-decoration": "none",
+          "subtitle-line-height": 150,
+          "subtitle-letter-spacing": 0,
+          "title-alignment": "center",
+          "margin-top": "20",
+          "margin-right": "10",
+          "margin-bottom": "20",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "transparent",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Title",
+      "children": null
+    },
+    {
+      "id": "PBS-p4mcgp1661723616426",
+      "name": "spacer",
+      "blocks": {
+        "parameters": {
+          "space": 10,
+          "spacer-style": "divider",
+          "is-shadow": false
+        },
+        "style": {
+          "spacer-alignment": "center",
+          "is-full-width": false,
+          "width": "80",
+          "margin-top": 0,
+          "margin-bottom": 0,
+          "divider-thickness": "5",
+          "divider-color": "#1A1A1A",
+          "border-style": "solid",
+          "background-color": "transparent",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Spacer",
+      "children": null
+    },
+    {
+      "id": "PBS-qnim9k1632909988068",
+      "name": "express-checkout-form",
+      "blocks": {
+        "parameters": {
+          "product-id": "fd671246-180a-41ec-8431-a62260df2872",
+          "show-product-price": true,
+          "show-product-compare-at-price": true,
+          "show-variants-selector": false,
+          "product-variant-id": "c78344cf-e51e-4fab-b0b6-8c9ffad25fd7",
+          "button-text": "إضغط هنا لطلب المنتج",
+          "express-checkout-form-header": "<p><span style=\"font-size: 24px; color: rgb(97, 189, 109);\"><strong>فقط ب</strong></span></p>",
+          "express-checkout-form-pre-footer": null,
+          "express-checkout-form-footer": null
+        },
+        "style": {
+          "form-alignment": "center",
+          "form-border-width": "4",
+          "form-border-color": "#7ED321FF",
+          "form-border-radius": "20",
+          "form-border-style": "double",
+          "price-alignment": "center",
+          "price-font-size": 4,
+          "price-text-color": "#26292E",
+          "price-font-family": null,
+          "price-font-weight": "bold",
+          "price-text-decoration": "none",
+          "price-line-height": 150,
+          "price-letter-spacing": 0,
+          "price-text-shadow": "0px 0px 0px #000000",
+          "compare-at-price-font-size": 1,
+          "compare-at-price-text-color": "#747474",
+          "compare-at-price-font-family": null,
+          "compare-at-price-font-weight": "normal",
+          "compare-at-price-text-decoration": "line-through",
+          "compare-at-price-line-height": 150,
+          "compare-at-price-letter-spacing": 0,
+          "compare-at-price-text-shadow": "0px 0px 0px #000000",
+          "variant-selector-direction": "column",
+          "variant-selector-alignment": "left",
+          "enable-input-label": false,
+          "input-font-size": 14,
+          "input-text-color": "#26292E",
+          "focus-input-text-color": "#26292E",
+          "input-placeholder-color": "#BBC0C3",
+          "input-padding-vertical": 10,
+          "input-padding-horizontal": 14,
+          "input-background-color": "#FFFFFF",
+          "focus-input-background-color": "#FFFFFF",
+          "input-border-width": 1,
+          "focus-input-border-width": 1,
+          "input-border-color": "#D6D9DB",
+          "focus-input-border-color": "#26292E",
+          "input-border-radius": 6,
+          "input-border-style": "solid",
+          "button-font-size": 14,
+          "button-text-color": "#FFFFFF",
+          "hover-button-text-color": "#FFFFFF",
+          "button-padding-vertical": 14,
+          "button-padding-horizontal": 24,
+          "button-background-color": "linear-gradient(45deg, #7ED321FF 0%, #417505FF 100%)",
+          "hover-button-background-color": "linear-gradient(45deg, #417505FF 0%, #7ED321FF 100%)",
+          "button-border-width": 0,
+          "hover-button-border-width": 0,
+          "button-border-color": "#FFBEB9",
+          "hover-button-border-color": "#FFBEB9",
+          "button-border-radius": 6,
+          "is-full-width": false,
+          "width": "700",
+          "height": null,
+          "margin-top": "20",
+          "margin-right": "10",
+          "margin-bottom": "20",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": "10",
+          "padding-bottom": 0,
+          "padding-left": "10",
+          "background-color": "#FEFEFE",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }",
+          "textual-button-text-color": "#000000",
+          "selected-textual-button-text-color": "#000000",
+          "textual-button-background-color": "#FFFFFF",
+          "selected-textual-button-background-color": "#FFFFFF",
+          "textual-button-border-color": "#e5e5e5",
+          "selected-textual-button-border-color": "#000000",
+          "color-button-border-color": "#e5e5e5",
+          "selected-color-button-border-color": "#000000",
+          "radio-button-checkmark-color": "#000000",
+          "radio-button-border-color": "#e5e5e5",
+          "radio-button-background-color": "#FFFFFF",
+          "image-button-border-color": "#e5e5e5",
+          "selected-image-button-border-color": "#000000"
+        }
+      },
+      "label": "Express checkout",
+      "children": null
+    },
+    {
+      "id": "PBS-iwvmnr1661729414493",
+      "name": "footer",
+      "blocks": {
+        "parameters": {
+          "is-custom": true,
+          "content": "<p><img src=\"https://cdn.youcan.shop/stores/d30f24229ccf57f5714113acecc343f1/others/p4PzcJoeC5JodNWY2LFmU1kwNMKifBKkHvzYKQXJ.png\" style=\"width: 195px;\" class=\"fr-fic fr-dib\" data-name=\"stores/d30f24229ccf57f5714113acecc343f1/others/p4PzcJoeC5JodNWY2LFmU1kwNMKifBKkHvzYKQXJ.png\"></p>",
+          "show-logo": false
+        },
+        "style": {
+          "text-color": "#000000",
+          "show-border": true,
+          "border-color": "#F0F0F0",
+          "margin-top": 0,
+          "margin-right": 0,
+          "margin-bottom": 0,
+          "margin-left": 0,
+          "padding-top": 30,
+          "padding-right": 0,
+          "padding-bottom": 30,
+          "padding-left": 0,
+          "background-color": "#FEFEFE",
+          "css-content": "{ }"
+        }
+      },
+      "label": "Footer",
+      "children": null
+    }
+  ],
+  "settings": {
+    "page-direction": "rtl",
+    "is-full-width": true,
+    "width": null,
+    "center-elements": false,
+    "background-color": "#FFFFFF",
+    "background-image": null,
+    "background-repeat": "no-repeat",
+    "background-position": "center",
+    "background-size": "cover",
+    "font-family": "Cairo",
+    "font-size-desktop": 16,
+    "font-size-mobile": 12,
+    "text-color": "#1a1a1a",
+    "content-alignment": "center",
+    "section-alignment": "center",
+    "margin-top": 0,
+    "margin-right": 0,
+    "margin-bottom": 0,
+    "margin-left": 0
+  }
+}
